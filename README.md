@@ -22,7 +22,7 @@ Sou recém-formado e tenho me dedicado a aprender e aprimorar minhas habilidades
 
 ## 📫 Contato
 
-- [LinkedIn]((https://github.com/souzacef))
+- [LinkedIn](https://www.linkedin.com/in/carlosefsouza/)
 - [E-mail](mailto:souzacef@gmail.com)
 
 ## 📈 Estatísticas do GitHub
