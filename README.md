@@ -8,6 +8,7 @@ Desenvolvedor Back-end recém-formado com paixão por Java, JavaScript/Node e Py
 1. **(https://github.com/souzacef/ITSolutions-Atividade-01)**: Calduladora de IMC simples. Utilizando HTML, CSS e Javascript.
 2. **(https://github.com/souzacef/ITalents-atividade-2)**: Sistema de Gestão de Notas e Médias de Alunos.
 3. **(https://github.com/souzacef/NodeJS-Bank)**: Sistema de banco.
+4. **https://github.com/souzacef/The-Chronicles-of-Aerithor**: Jogo-texto em JavaScript.
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -18,7 +19,7 @@ Desenvolvedor Back-end recém-formado com paixão por Java, JavaScript/Node e Py
 
 ## 🚀 Sobre Mim
 
-Sou recém-formado e tenho me dedicado a aprender e aprimorar minhas habilidades em desenvolvimento Back-end. Durante meus estudos, participei de projetos de cursos extra-curriculares e concluí um Bootcamp Back-end, onde desenvolvi três projetos principais. Tenho um forte interesse em Inteligência Artificial e estou sempre procurando maneiras de integrar essa tecnologia em minhas soluções de software.
+Sou recém-formado e tenho me dedicado a aprender e aprimorar minhas habilidades em desenvolvimento Back-end. Durante meus estudos, participei de projetos de cursos extra-curriculares e concluí um Bootcamp Back-end, onde desenvolvi quatro projetos principais. Tenho um forte interesse em Inteligência Artificial e estou sempre procurando maneiras de integrar essa tecnologia em minhas soluções de software.
 
 ## 📫 Contato
 
