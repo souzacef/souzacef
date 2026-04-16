@@ -1,33 +1,93 @@
-# Olá, eu sou Carlos. 👋
+# 👋 Hi, I'm Carlos
 
-Desenvolvedor Back-end recém-formado com paixão por Java, JavaScript/Node e Python. Focado em desenvolvimento Back-end e Inteligência Artificial. Sempre em busca de novos desafios e oportunidades de aprendizado.
+Backend Developer focused on building reliable, production-inspired systems.
 
-## 🌟 Projetos Destacados
+I specialize in **Java + Spring Boot** and design APIs with emphasis on:
+- Data consistency
+- Failure handling
+- Real-world backend architecture
 
-### Bootcamp Back-end
-1. **(https://github.com/souzacef/ITSolutions-Atividade-01)**: Calduladora de IMC simples. Utilizando HTML, CSS e Javascript.
-2. **(https://github.com/souzacef/ITalents-atividade-2)**: Sistema de Gestão de Notas e Médias de Alunos.
-3. **(https://github.com/souzacef/NodeJS-Bank)**: Sistema de banco.
-4. **https://github.com/souzacef/The-Chronicles-of-Aerithor**: Jogo-texto em JavaScript.
+---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🚀 Featured Project
 
-- **Linguagens**: Java, JavaScript, Python
-- **Frameworks**: Node.js, Express
-- **Banco de Dados**: MongoDB, MySQL
-- **Ferramentas**: Git
+### 💳 PayFlow Guard — Payment Processing Backend
+🔗 https://github.com/souzacef/payflow-guard
 
-## 🚀 Sobre Mim
+Production-inspired payment system built with **Java 21, Spring Boot, PostgreSQL, Docker**.
 
-Sou recém-formado e tenho me dedicado a aprender e aprimorar minhas habilidades em desenvolvimento Back-end. Durante meus estudos, participei de projetos de cursos extra-curriculares e concluí um Bootcamp Back-end, onde desenvolvi quatro projetos principais. Tenho um forte interesse em Inteligência Artificial e estou sempre procurando maneiras de integrar essa tecnologia em minhas soluções de software.
+- Payment lifecycle control (PENDING → AUTHORIZED → CAPTURED → REFUNDED)
+- Idempotent operations to prevent duplicate transactions
+- Partial refunds with full history tracking
+- Webhook system with retry and failure handling
+- Fraud detection (high-value and velocity rules)
+- Audit logging and traceability
+- RBAC and multi-tenant isolation
 
-## 📫 Contato
+👉 Focused on correctness, consistency, and failure handling in financial systems.
 
-- [LinkedIn](https://www.linkedin.com/in/carlosefsouza/)
-- [E-mail](mailto:souzacef@gmail.com)
+---
 
-## 📈 Estatísticas do GitHub
+## 🧩 Other Projects
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=souzacef&show_icons=true&theme=radical)
+- 🏦 https://github.com/souzacef/NodeJS-Bank  
+  Banking simulation API with basic business rules
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=souzacef&layout=compact&theme=radical)
+- 🎮 https://github.com/souzacef/The-Chronicles-of-Aerithor  
+  Text-based RPG built with JavaScript
+
+---
+
+## 🛠️ Tech Stack
+
+**Backend:**  
+Java, Spring Boot, Spring Security, Node.js  
+
+**Database:**  
+PostgreSQL, MySQL  
+
+**Concepts:**  
+REST APIs, JWT Authentication, RBAC, Idempotency, Webhooks,  
+Distributed Systems Thinking, Error Handling  
+
+**Tools:**  
+Docker, Git, Maven  
+
+---
+
+## 🌍 About Me
+
+I come from a background in IT support and education, which gave me a strong foundation in:
+- Problem solving  
+- System troubleshooting  
+- Clear communication  
+
+Now focused on backend development, building systems that behave correctly under real-world conditions.
+
+---
+
+## 📫 Contact
+
+- LinkedIn: https://linkedin.com/in/carlosefsouza  
+- Email: souzacef@gmail.com  
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=souzacef&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=souzacef&layout=compact)
+
+---
+
+## 🇧🇷 Sobre mim
+
+Desenvolvedor backend focado em Java e Spring Boot, com interesse em sistemas financeiros e arquitetura de APIs.
+
+Experiência no desenvolvimento de sistemas com foco em:
+- Consistência de dados  
+- Tratamento de falhas  
+- Boas práticas de arquitetura backend  
+
+Projeto principal: PayFlow Guard (backend de pagamentos inspirado em sistemas reais).
