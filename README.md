@@ -14,6 +14,7 @@ I specialize in **Java + Spring Boot** and design APIs with emphasis on:
 
 ### 🎫 ResolveHub — AI-Assisted Support Platform
 🔗 https://github.com/souzacef/resolvehub
+🌐 Live Demo: https://resolvehub-frontend.onrender.com
 
 Full-stack customer support platform built with **Java 21, Spring Boot, PostgreSQL, Docker, React, and TypeScript**.
 
