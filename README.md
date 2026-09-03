@@ -1,105 +1,106 @@
 # 👋 Hi, I'm Carlos
 
-Backend Developer focused on building reliable, production-inspired systems.
+Backend / Full-Stack Developer focused on building reliable, production-oriented applications with **Java, Spring Boot, React, PostgreSQL, REST APIs, CI/CD, and practical AI integration**.
 
-I specialize in **Java + Spring Boot** and design APIs with emphasis on:
-- Data consistency
-- Failure handling
-- Real-world backend architecture
-- Clear business rules and testable workflows
+I care about clear business rules, maintainable architecture, automated testing, failure handling, and software that behaves predictably outside the happy path.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🎫 ResolveHub — AI-Assisted Support Platform
-🔗 https://github.com/souzacef/resolvehub
-🌐 Live Demo: https://resolvehub-frontend.onrender.com
+### 🎙️ TalkTally — Voice-First Personal Finance with AI
+
+🔗 [GitHub](https://github.com/souzacef/talktally)  
+🌐 [Live Demo](https://talktally.onrender.com)
+
+Bilingual full-stack personal finance application built with **Java 25, Spring Boot, Spring AI, Google Gemini, PostgreSQL, React, and TypeScript**.
+
+- Voice and text assistant with constrained tool calling
+- Income, expenses, installments, reimbursements, and financial reporting
+- Deterministic Java/PostgreSQL financial logic behind the AI interface
+- JWT-based ownership boundaries and server-controlled user context
+- Responsive EN-US / PT-BR interface
+- Automated backend/frontend testing, PostgreSQL integration coverage, Docker, and GitHub Actions CI/CD
+
+👉 AI interprets language and selects approved capabilities; the application remains authoritative for identity, money, validation, reporting, and persistence.
+
+---
+
+### 🎫 ResolveHub — AI-Assisted Customer Support Platform
+
+🔗 [GitHub](https://github.com/souzacef/resolvehub)  
+🌐 [Live Demo](https://resolvehub-frontend.onrender.com)
 
 Full-stack customer support platform built with **Java 21, Spring Boot, PostgreSQL, Docker, React, and TypeScript**.
 
 - Multi-tenant organization model with role-based access control
 - Customer ticket creation and staff ticket management
-- Ticket comments with public/internal visibility
-- Controlled status workflow and staff assignment
+- Public/internal comments and controlled ticket workflows
 - SLA deadline calculation and overdue detection
 - Audit logs for traceability
-- AI-assisted ticket classification with human-in-the-loop apply workflow
-- OpenAI-compatible/Ollama provider support
-- React dashboard with ticket filters, detail views, comments, audit logs, and AI workflow
+- AI-assisted ticket classification with a human-in-the-loop apply workflow
 - GitHub Actions CI validating backend, frontend, and Docker image builds
 
-👉 Focused on workflow modeling, auditability, AI-assisted operations, and production-style full-stack architecture.
+👉 Focused on workflow modeling, auditability, role-based access, and production-style full-stack architecture.
 
 ---
 
 ### 💳 PayFlow Guard — Payment Processing Backend
-🔗 https://github.com/souzacef/payflow-guard
 
-Production-inspired payment system built with **Java 21, Spring Boot, PostgreSQL, and Docker**.
+🔗 [GitHub](https://github.com/souzacef/payflow-guard)
 
-- Payment lifecycle control: `PENDING → AUTHORIZED → CAPTURED → REFUNDED / FAILED`
+Production-inspired payment backend built with **Java 21, Spring Boot, PostgreSQL, and Docker**.
+
+- Payment lifecycle control and partial refunds
 - Idempotent operations to prevent duplicate transactions
-- Partial refunds with full history tracking
-- Webhook system with retry and failure handling
-- Fraud detection with high-value and velocity rules
+- Webhook delivery with retry and failure handling
+- Fraud checks using a Chain of Responsibility
 - Audit logging and traceability
 - RBAC and multi-tenant isolation
+- Self-contained automated test environment and CI validation
 
-👉 Focused on correctness, consistency, and failure handling in financial systems.
-
----
-
-## 🧩 Earlier Project
-
-### 🎮 The Chronicles of Aerithor
-🔗 https://github.com/souzacef/The-Chronicles-of-Aerithor
-
-Text-based RPG built with **JavaScript** as a bootcamp final project.
-
-- Branching story choices
-- Turn-based progression
-- Fantasy-inspired worldbuilding
-- Node.js command-line gameplay
+👉 Focused on correctness, consistency, failure handling, and backend design patterns.
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Backend**  
-Java 21, Spring Boot, Spring Security, REST APIs, Node.js
+Java · Spring Boot · Spring Security · Spring AI · REST APIs · Node.js
 
 **Frontend**  
-React, TypeScript, Vite
+React · TypeScript · JavaScript · Vite
 
-**Database**  
-PostgreSQL, MySQL, Flyway
+**Data**  
+PostgreSQL · SQL · Flyway · JPA/Hibernate
 
 **Testing & Quality**  
-JUnit 5, Testcontainers, GitHub Actions, CI/CD
+JUnit · Testcontainers · Vitest · Testing Library · Code Review
+
+**Delivery**  
+Docker · GitHub Actions · CI/CD · Render · Git
 
 **Architecture & Concepts**  
-JWT Authentication, RBAC, Multi-tenancy, Idempotency, Webhooks, Audit Logs, SLA Tracking, Error Handling, Business Workflow Modeling
+JWT · RBAC · Multi-tenancy · SOLID · OOP · Idempotency · Webhooks · Audit Logs · Business Workflows · Failure Handling
 
-**Tools**  
-Docker, Docker Compose, Git, Maven, Swagger/OpenAPI
-
-**AI**  
-Ollama, OpenAI-compatible APIs, AI provider abstraction, human-in-the-loop AI workflows
+**AI & Automation**  
+Spring AI · Google Gemini · LLM tool calling · Prompt Engineering · OpenAI-compatible/Ollama integrations · Microsoft Power Automate
 
 ---
 
 ## 🌍 About Me
 
-I come from a background in IT support and education, which shaped the way I build software: clear communication, careful troubleshooting, and systems that behave predictably under real-world conditions.
+My background includes IT support and many years in education, which strengthened the way I approach software engineering: understand the problem first, communicate decisions clearly, troubleshoot systematically, and keep learning quickly.
 
-My current focus is backend and full-stack development with **Java, Spring Boot, PostgreSQL, Docker, and React**, building applications with authentication, business workflows, auditability, automated validation through CI, and production-inspired architecture.
+My current focus is backend and full-stack development with **Java/Spring, PostgreSQL, React, APIs, CI/CD, and practical AI integration**.
+
+I'm currently interested in **junior backend, full-stack, and software engineering opportunities**, especially roles involving Java/Spring, APIs, PostgreSQL, React, and AI-enabled applications.
 
 ---
 
 ## 📫 Contact
 
-- LinkedIn: https://linkedin.com/in/carlosefsouza
+- [LinkedIn](https://linkedin.com/in/carlosefsouza)
 - Email: souzacef@gmail.com
 
 ---
@@ -114,17 +115,11 @@ My current focus is backend and full-stack development with **Java, Spring Boot,
 
 ## 🇧🇷 Sobre mim
 
-Desenvolvedor backend focado em **Java e Spring Boot**, com interesse em sistemas confiáveis, arquitetura de APIs e aplicações com regras de negócio bem definidas.
+Desenvolvedor Backend / Full-Stack com foco em **Java, Spring Boot, React, PostgreSQL, APIs REST, CI/CD e integração prática de IA**.
 
-Tenho experiência no desenvolvimento de sistemas com foco em:
-- Consistência de dados
-- Tratamento de falhas
-- Segurança e controle de acesso
-- Modelagem de workflows
-- Boas práticas de arquitetura backend
+Meus principais projetos são:
+- **TalkTally**: aplicação de finanças pessoais bilíngue e orientada por voz, com Spring AI/Gemini e regras financeiras determinísticas em Java/PostgreSQL.
+- **ResolveHub**: plataforma de suporte multi-tenant com RBAC, SLA, auditoria, workflow de tickets e classificação assistida por IA.
+- **PayFlow Guard**: backend de pagamentos com idempotência, reembolsos, webhooks, antifraude, auditoria e padrões de projeto.
 
-Projetos principais:
-- **ResolveHub**: plataforma de suporte multi-tenant com SLA, auditoria, workflow de tickets e classificação assistida por IA.
-- **PayFlow Guard**: backend de pagamentos inspirado em sistemas reais, com idempotência, reembolsos, webhooks, antifraude e auditoria.
-
-Atualmente busco oportunidades em desenvolvimento backend ou full-stack, especialmente em projetos que valorizem qualidade, confiabilidade e evolução contínua.
+Atualmente busco oportunidades júnior em desenvolvimento backend, full-stack e engenharia de software.
