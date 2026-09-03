@@ -11,6 +11,7 @@ I care about clear business rules, maintainable architecture, automated testing,
 ### 🎙️ TalkTally — Voice-First Personal Finance with AI
 
 🔗 [GitHub](https://github.com/souzacef/talktally)  
+🎥 [Video Demo](https://youtube.com/shorts/MvMs85hSVIM)  
 🌐 [Live Demo](https://talktally.onrender.com)
 
 Bilingual full-stack personal finance application built with **Java 25, Spring Boot, Spring AI, Google Gemini, PostgreSQL, React, and TypeScript**.
